@@ -1,5 +1,5 @@
 let rowHeight = 50;
-let listLen = 100000;
+let listLen = 500000;
 let tableHeight = 800;
 let tableWidth = 500;
 

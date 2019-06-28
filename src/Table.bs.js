@@ -107,7 +107,7 @@ function makeList(num) {
   };
 }
 
-var list = makeList(100000);
+var list = makeList(500000);
 
 var listLen = List.length(list);
 
